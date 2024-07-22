@@ -27,7 +27,7 @@ class HomePage extends StatelessWidget {
                 fillColor: Colors.white,
                 contentPadding: EdgeInsets.all(15),
                 prefixIcon: SvgPicture.asset('assets/icons/Search.svg'),
-                suffixIcon: SvgPicture.asset('assets/icons/Filter.svg'),
+                
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(15),
                   borderSide: BorderSide.none,
