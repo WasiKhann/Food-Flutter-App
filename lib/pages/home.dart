@@ -42,10 +42,11 @@ class HomePage extends StatelessWidget {
                     width: 150,
                     color: Colors.red,
                   );
-                }),
+                },itemCount: 5,),
               )
             ],
           )
+        
         ],
       ),
     );
